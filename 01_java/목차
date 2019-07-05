@@ -1,0 +1,52 @@
+@@ day01
+
+ch01_basic
+-Test01: 메인메소드
+-Test02: 주석문
+-Test03: print, println
+-Test04:
+ 
+@@ day02
+
+ch01_basic
+-Test05: 변수의 개념
+-Test06: 변수의 사용이유
+-Test07: +를 이용해 문자열과 숫자를 합해 출력.
+-Test08: printf 기초
+-Test09: printf 심화
+-Test10: 여러개의 클래스
+-Test11: 자바구성요소
+-Test12: 클래스 선언 위에 위치하는 것들
+-Test13: 상수의 사용법
+-Test14: 문자열 상수
+
+ch02_operator
+-Test01: Random 클래스 + Quiz01
+-Test02: Scanner로 데이터 입력받기
+-Test03: Scanner활용
+-Test05: API클래스 의 Integer
+-Test06: swap
+-Test07: 삼항연산자
+-Test08: 비교연산자
+-Test09: 산술연산자
+-Test10: 증감연산자
+-Test11: 증감연산자 2
+-Test12: 논리연산자
+-Test13: 배정연산자
+
+@@  day03
+ch03_condition
+-Test01: if문
+-Test02: if의 확장
+-Test03: 다중 if else 구조
+-Test04: switch 문
+
+ch04_repertition
+-Test01: for문의 기초
+-Test02: for문의 연습
+-test03: for문 연습
+-Test04: 이중 for문
+-Test05: while 문
+-Test06: 무한 while 문 벗어나기
+-Test07: for문에 이름붙이고 이름붙인 for문 벗어나기
+-Test08: continue 
